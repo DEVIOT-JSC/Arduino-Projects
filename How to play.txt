@@ -3,7 +3,7 @@ Chuẩn bị
 - Arduino Leonardo
 - Button (nếu thích)
 Kết nối MPU6050 với Arduino Leonardo
-VCC	- 	3.3V
+VCC	- 5V
 GND	-	GND
 SDA	-	Digital 2
 SCL	-	Digital 3
