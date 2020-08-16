@@ -1,0 +1,11 @@
+Chuẩn bị 
+- MPU6050
+- Arduino Leonardo
+- Button (nếu thích)
+Kết nối MPU6050 với Arduino Leonardo
+VCC	- 	3.3V
+GND	-	GND
+SDA	-	Digital 2
+SCL	-	Digital 3
+Lúc chạy code thì mở Serial lên và làm theo hướng dẫn  nhé
+Chúc bạn chơi game vui vẻ :) 
